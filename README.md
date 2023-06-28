@@ -18,10 +18,6 @@ Bot for bridging new holograph nft Building - https://app.holograph.xyz/ </br>
 2. NFT search by networks and bridge to a random/selected network </br>
 
 
-<h2>donate</h2> evm 0xFD6594D11b13C6b1756E328cc13aC26742dBa868
-<h2>donate</h2> trc20 TMmL915TX2CAPkh9SgF31U4Trr32NStRBp
-
-<h2>тг</h2> https://t.me/iliocka
 
 # Установка на Ubuntu
 Обновляемся
@@ -58,3 +54,9 @@ nohup python3 main.py > log.log 2>&1 &
 pgrep -a python
 kill (номер процесса)
 ```
+
+
+<h2>donate</h2> evm 0xFD6594D11b13C6b1756E328cc13aC26742dBa868
+<h2>donate</h2> trc20 TMmL915TX2CAPkh9SgF31U4Trr32NStRBp
+
+<h2>тг</h2> https://t.me/iliocka
